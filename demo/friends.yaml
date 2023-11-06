@@ -1,0 +1,21 @@
+msubtitles:
+  - source: https://raw.githubusercontent.com/lowlevel-1989/subs/master/friends/1994/
+    subtitles:
+      - season: 1
+        items:
+          - path: 01/friends.1994.s1e01.en.srt
+            episode: 1
+            delay: 0.15
+          - path: 01/friends.1994.s1e02.en.srt
+            episode: 2
+      - season: 2
+        items:
+          - path: /01/friends.1994.s1e03.en.srt
+            episode: 3
+  - source: https://raw.githubusercontent.com/lowlevel-1989/subs/master/friends
+    subtitles:
+      - season: 3
+        items:
+          - path: 1994/01/friends.1994.s1e03.en.srt
+            episode: 3
+            hash: c98fb1cab4eb4804
